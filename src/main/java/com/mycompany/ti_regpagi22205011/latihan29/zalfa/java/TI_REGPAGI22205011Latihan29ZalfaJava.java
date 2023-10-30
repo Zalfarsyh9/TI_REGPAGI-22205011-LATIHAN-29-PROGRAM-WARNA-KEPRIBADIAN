@@ -7,6 +7,10 @@
 /**
  *
  * @author User
+ Nama : Zalfa Rosiyah Riski 
+ Nim : 22205011
+ Prodi : Teknik Informatika 
+ Deskripsi : Buatlah program melihat kepribadian seseorang dari warna sesuai ketentuan
  */
 
     
